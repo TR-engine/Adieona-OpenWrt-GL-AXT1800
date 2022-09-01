@@ -31,11 +31,11 @@ module.exports = [
     uri: 'https://github.com/jerrykuku/luci-app-jd-dailybonus',
     branch: 'master',
   },
-  {
-    name: 'passwall',
-    uri: 'https://github.com/xiaorouji/openwrt-passwall',
-    branch: 'packages',
-  }
+  //{
+  //  name: 'passwall',
+  //  uri: 'https://github.com/xiaorouji/openwrt-passwall',
+  //  branch: 'packages',
+  //}
   // {
   //   name: 'lienol_packages',
   //   uri: 'https://github.com/Lienol/openwrt-package.git',
