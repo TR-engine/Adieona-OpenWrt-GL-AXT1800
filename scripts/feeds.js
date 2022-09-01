@@ -35,7 +35,7 @@ module.exports = [
   //  name: 'passwall',
   //  uri: 'https://github.com/xiaorouji/openwrt-passwall',
   //  branch: 'packages',
-  //},
+  //}
   // {
   //   name: 'lienol_packages',
   //   uri: 'https://github.com/Lienol/openwrt-package.git',
