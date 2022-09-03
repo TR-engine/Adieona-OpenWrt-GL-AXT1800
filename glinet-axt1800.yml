@@ -22,7 +22,7 @@ feeds:
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: c445314e08cb2273e83392065ddb22ec6907f08c
+    revision: 30d1d4db000a50e04fe19d200ff87037a982b89d
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
@@ -43,7 +43,6 @@ packages:
   - kmod-wireguard-backport
   - luci-theme-argon
   - luci-app-argon-config
-  - luci-app-store
   - luci-app-ramfree
   - luci-app-wol
   - luci-app-diskman
@@ -57,6 +56,3 @@ packages:
   - luci-app-cpufreq
   - luci-app-ttyd
   - luci-app-passwall
-  - luci-app-serverchan
-  - luci-app-transmission
-  - luci-app-jd-dailybonus

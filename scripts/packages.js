@@ -30,6 +30,14 @@ module.exports = [
     desc: 'smartdns DNS防污染',
   },
   {
+    name: 'luci-app-openclash',
+    desc: 'clash的图形代理软件',
+  },
+  {
+    name: 'luci-app-aria2',
+    desc: 'aria2下载工具',
+  },
+  {
     name: 'luci-app-zerotier',
     desc: 'ZeroTier内网穿透',
   },
